@@ -12,6 +12,3 @@ http://gizmocode.com/projects/ecoenergy-interactive/
 
 ## Pokedex in Vue
 https://pokemon.axaj.in/
-
-## Todo App in Vue & express (WIP)
-https://todo.axaj.in/
